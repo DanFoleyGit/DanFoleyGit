@@ -31,6 +31,7 @@ Passionate about putting powerful mobile apps in peoples hands.
   <li>AndroidX</li>
   <li>Dagger Hilt</li>
   <li>OKHTTP/Retrofit</li>
+  <li>Koin</li>
   <li>Room Database</li>
   <li>Google Firebase</li>
 </ul>
@@ -48,6 +49,13 @@ Passionate about putting powerful mobile apps in peoples hands.
   <li>Github Actions</li>
   <li>Jenkins</li>
 </ul>
+
+<h6>BackEnd</h6>
+<ul>
+  <li>Ktor</li>
+  <li>MongoDB</li>
+</ul>
+
 
 <h3>Get In Touch</h3>
 <p>

@@ -59,6 +59,6 @@ Passionate about putting powerful mobile apps in peoples hands.
 
 <h3>Get In Touch</h3>
 <p>
-  Email: danfoley1122gmail.com <br>
+  Email: danfoley1122@gmail.com <br>
   LinkedIn: https://www.linkedin.com/in/daniel-foley-1729b8145/
 </p>
